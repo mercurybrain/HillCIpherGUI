@@ -1,0 +1,9 @@
+C:\Users\mavek\Desktop\dev\HillCipherGUI\HillCIpherGUI\bin\Debug\HillCIpherGUI.exe
+C:\Users\mavek\Desktop\dev\HillCipherGUI\HillCIpherGUI\bin\Debug\HillCIpherGUI.pdb
+C:\Users\mavek\Desktop\dev\HillCipherGUI\HillCIpherGUI\obj\Debug\HillCIpherGUI.csproj.AssemblyReference.cache
+C:\Users\mavek\Desktop\dev\HillCipherGUI\HillCIpherGUI\obj\Debug\HillCIpherGUI.Form1.resources
+C:\Users\mavek\Desktop\dev\HillCipherGUI\HillCIpherGUI\obj\Debug\HillCIpherGUI.Properties.Resources.resources
+C:\Users\mavek\Desktop\dev\HillCipherGUI\HillCIpherGUI\obj\Debug\HillCIpherGUI.csproj.GenerateResource.cache
+C:\Users\mavek\Desktop\dev\HillCipherGUI\HillCIpherGUI\obj\Debug\HillCIpherGUI.csproj.CoreCompileInputs.cache
+C:\Users\mavek\Desktop\dev\HillCipherGUI\HillCIpherGUI\obj\Debug\HillCIpherGUI.exe
+C:\Users\mavek\Desktop\dev\HillCipherGUI\HillCIpherGUI\obj\Debug\HillCIpherGUI.pdb
